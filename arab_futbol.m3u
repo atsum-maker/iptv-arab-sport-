@@ -1,97 +1,87 @@
 #EXTM3U
 
-############################
-# 🇦🇪 CANALES ÁRABES – GENERALISTAS
-############################
+############### 🇦🇪 ÁRABES – GENERALISTAS ###############
 
-#EXTINF:-1 group-title="Árabes",Dubai TV
+#EXTINF:-1 tvg-id="dubaitv" tvg-name="Dubai TV" group-title="Arab",Dubai TV
 https://dmisvthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Árabes",Dubai One
+#EXTINF:-1 tvg-id="dubaione" tvg-name="Dubai One" group-title="Arab",Dubai One
 https://dmisvthvll.cdn.mangomolo.com/dubaione/smil:dubaione.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Árabes",Sharjah TV
+#EXTINF:-1 tvg-id="sharjahtv" tvg-name="Sharjah TV" group-title="Arab",Sharjah TV
 https://svs.itworkscdn.net/smc4live/smc4.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Árabes",Abu Dhabi TV
+#EXTINF:-1 tvg-id="abudhabi" tvg-name="Abu Dhabi TV" group-title="Arab",Abu Dhabi TV
 https://adtv.ercdn.net/adtv/adtv.m3u8
 
-#EXTINF:-1 group-title="Árabes",Al Arabiya
+#EXTINF:-1 tvg-id="alarabiya" tvg-name="Al Arabiya" group-title="Arab",Al Arabiya
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Árabes",Al Jazeera Arabic
+#EXTINF:-1 tvg-id="aljazeera" tvg-name="Al Jazeera Arabic" group-title="Arab",Al Jazeera Arabic
 https://live-hls-web-aje.getaj.net/AJA/01.m3u8
 
-#EXTINF:-1 group-title="Árabes",Al Jazeera Mubasher
+#EXTINF:-1 tvg-id="aljazeeramubasher" tvg-name="Al Jazeera Mubasher" group-title="Arab",Al Jazeera Mubasher
 https://live-hls-web-ajm.getaj.net/AJM/01.m3u8
 
 
-############################
-# 🎬 CANALES ÁRABES – CINE Y SERIES
-############################
+############### 🎬 ÁRABES – CINE Y SERIES ###############
 
-#EXTINF:-1 group-title="Árabes - Cine",Rotana Cinema
+#EXTINF:-1 tvg-id="rotanacinema" tvg-name="Rotana Cinema" group-title="Arab Movies",Rotana Cinema
 https://shls-rotanacinema-prod-dub.shahid.net/out/v1/3f1b0f9e8c6f4e0e8e6b2e0c8dfe8e3c/index.m3u8
 
-#EXTINF:-1 group-title="Árabes - Cine",Rotana Khalijia
+#EXTINF:-1 tvg-id="rotanakhalijia" tvg-name="Rotana Khalijia" group-title="Arab Movies",Rotana Khalijia
 https://shls-rotanakhalijia-prod-dub.shahid.net/out/v1/7c3e3e1f8e1a4b8c9e2c3e1f8e1a4b8c/index.m3u8
 
-#EXTINF:-1 group-title="Árabes - Cine",Rotana Classic
+#EXTINF:-1 tvg-id="rotanaclassic" tvg-name="Rotana Classic" group-title="Arab Movies",Rotana Classic
 https://shls-rotanaclassic-prod-dub.shahid.net/out/v1/5f1b0f9e8c6f4e0e8e6b2e0c8dfe8e3c/index.m3u8
 
-#EXTINF:-1 group-title="Árabes - Cine",Rotana Drama
+#EXTINF:-1 tvg-id="rotanadrama" tvg-name="Rotana Drama" group-title="Arab Movies",Rotana Drama
 https://shls-rotanadrama-prod-dub.shahid.net/out/v1/8c3e3e1f8e1a4b8c9e2c3e1f8e1a4b8c/index.m3u8
 
 
-############################
-# 🎶 CANALES ÁRABES – MÚSICA
-############################
+############### 🎶 ÁRABES – MÚSICA ###############
 
-#EXTINF:-1 group-title="Árabes - Música",Arabica TV
+#EXTINF:-1 tvg-id="arabica" tvg-name="Arabica TV" group-title="Music",Arabica TV
 http://streaming.arabica.tv:1935/live/arabica/playlist.m3u8
 
-#EXTINF:-1 group-title="Árabes - Música",Rotana Music
+#EXTINF:-1 tvg-id="rotanamusic" tvg-name="Rotana Music" group-title="Music",Rotana Music
 https://shls-rotanamusic-prod-dub.shahid.net/out/v1/4c3e3e1f8e1a4b8c9e2c3e1f8e1a4b8c/index.m3u8
 
-#EXTINF:-1 group-title="Árabes - Música",Mazzika TV
+#EXTINF:-1 tvg-id="mazzika" tvg-name="Mazzika TV" group-title="Music",Mazzika TV
 http://livecdnh3.tvanywhere.ae/hls/mazzika/03.m3u8
 
 
-############################
-# 🕌 CANALES ÁRABES – RELIGIÓN
-############################
+############### 🕌 ÁRABES – RELIGIÓN ###############
 
-#EXTINF:-1 group-title="Árabes - Religión",Saudi Quran TV
+#EXTINF:-1 tvg-id="qurantv" tvg-name="Saudi Quran TV" group-title="Religion",Saudi Quran TV
 https://live.tvquran.com/hls/stream.m3u8
 
-#EXTINF:-1 group-title="Árabes - Religión",Saudi Sunnah TV
+#EXTINF:-1 tvg-id="sunnatv" tvg-name="Saudi Sunnah TV" group-title="Religion",Saudi Sunnah TV
 https://live.tvsunnah.com/hls/stream.m3u8
 
 
-############################
-# ⚽ FÚTBOL INTERNACIONAL (SIN GEOBLOQUEO)
-############################
+############### ⚽ FÚTBOL INTERNACIONAL ###############
 
-#EXTINF:-1 group-title="Fútbol",Sport Italia
+#EXTINF:-1 tvg-id="sportitalia" tvg-name="Sport Italia" group-title="Sports",Sport Italia
 https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/smil:sportitalia.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Fútbol",Sport Italia Solo Calcio
+#EXTINF:-1 tvg-id="solocalcio" tvg-name="Sport Italia Solo Calcio" group-title="Sports",Sport Italia Solo Calcio
 https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/smil:solo_calcio.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Fútbol",Sport Italia Live 24
+#EXTINF:-1 tvg-id="live24" tvg-name="Sport Italia Live 24" group-title="Sports",Sport Italia Live 24
 https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/smil:si_live24.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Fútbol",Edge Sport
+#EXTINF:-1 tvg-id="edgesport" tvg-name="Edge Sport" group-title="Sports",Edge Sport
 https://edgesport-samsunguk.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="Fútbol",Red Bull TV
+#EXTINF:-1 tvg-id="redbulltv" tvg-name="Red Bull TV" group-title="Sports",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
-#EXTINF:-1 group-title="Fútbol",Fight Sports
+#EXTINF:-1 tvg-id="fightsports" tvg-name="Fight Sports" group-title="Sports",Fight Sports
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-fightsports/CDN/playlist.m3u8
 
-#EXTINF:-1 group-title="Fútbol",Outdoor Sport Channel
+#EXTINF:-1 tvg-id="outdoorsport" tvg-name="Outdoor Sport Channel" group-title="Sports",Outdoor Sport Channel
 https://outdoorchannel-samsunguk.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="Fútbol",Fuel TV
+#EXTINF:-1 tvg-id="fueltv" tvg-name="Fuel TV" group-title="Sports",Fuel TV
 https://fueltv-fueltv-1-eu.rakuten.wurl.tv/playlist.m3u8
