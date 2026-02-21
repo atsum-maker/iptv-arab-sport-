@@ -1,7 +1,3 @@
-#EXTM3U
-
-############### 🇦🇪 ÁRABES – GENERALISTAS ###############
-
 #EXTINF:-1 tvg-id="dubaitv" tvg-name="Dubai TV" group-title="Arab",Dubai TV
 https://dmisvthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.smil/playlist.m3u8
 
@@ -24,8 +20,6 @@ https://live-hls-web-aje.getaj.net/AJA/01.m3u8
 https://live-hls-web-ajm.getaj.net/AJM/01.m3u8
 
 
-############### 🎬 ÁRABES – CINE Y SERIES ###############
-
 #EXTINF:-1 tvg-id="rotanacinema" tvg-name="Rotana Cinema" group-title="Arab Movies",Rotana Cinema
 https://shls-rotanacinema-prod-dub.shahid.net/out/v1/3f1b0f9e8c6f4e0e8e6b2e0c8dfe8e3c/index.m3u8
 
@@ -39,8 +33,6 @@ https://shls-rotanaclassic-prod-dub.shahid.net/out/v1/5f1b0f9e8c6f4e0e8e6b2e0c8d
 https://shls-rotanadrama-prod-dub.shahid.net/out/v1/8c3e3e1f8e1a4b8c9e2c3e1f8e1a4b8c/index.m3u8
 
 
-############### 🎶 ÁRABES – MÚSICA ###############
-
 #EXTINF:-1 tvg-id="arabica" tvg-name="Arabica TV" group-title="Music",Arabica TV
 http://streaming.arabica.tv:1935/live/arabica/playlist.m3u8
 
@@ -51,8 +43,6 @@ https://shls-rotanamusic-prod-dub.shahid.net/out/v1/4c3e3e1f8e1a4b8c9e2c3e1f8e1a
 http://livecdnh3.tvanywhere.ae/hls/mazzika/03.m3u8
 
 
-############### 🕌 ÁRABES – RELIGIÓN ###############
-
 #EXTINF:-1 tvg-id="qurantv" tvg-name="Saudi Quran TV" group-title="Religion",Saudi Quran TV
 https://live.tvquran.com/hls/stream.m3u8
 
@@ -60,7 +50,6 @@ https://live.tvquran.com/hls/stream.m3u8
 https://live.tvsunnah.com/hls/stream.m3u8
 
 
-############### ⚽ FÚTBOL INTERNACIONAL ###############
 
 #EXTINF:-1 tvg-id="sportitalia" tvg-name="Sport Italia" group-title="Sports",Sport Italia
 https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/smil:sportitalia.smil/playlist.m3u8
