@@ -1,84 +1,22 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="AlAoula.ma" tvg-name="Al Aoula" group-title="Marruecos",Al Aoula
+https://cdn-hls.globecast.tv/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8
 
-#EXTINF:-1 tvg-id="mbc1" tvg-name="MBC 1" group-title="MBC",MBC 1
-https://shls-mbc1-prod-dub.shahid.net/out/v1/3f1b0f9e8c6f4e0e8e6b2e0c8dfe8e3c/index.m3u8
+#EXTINF:-1 tvg-id="2M.ma" tvg-name="2M Monde" group-title="Marruecos",2M Monde
+https://cdn-hls.globecast.tv/live/ramdisk/2m_monde/hls_snrt/index.m3u8
 
-#EXTINF:-1 tvg-id="mbc2" tvg-name="MBC 2" group-title="MBC",MBC 2
-https://shls-mbc2-prod-dub.shahid.net/out/v1/5f1b0f9e8c6f4e0e8e6b2e0c8dfe8e3c/index.m3u8
+#EXTINF:-1 tvg-id="Arryadia.ma" tvg-name="Arryadia" group-title="Marruecos",Arryadia (solo contenido FTA)
+https://cdn-hls.globecast.tv/live/ramdisk/arryadia/hls_snrt/index.m3u8
 
-#EXTINF:-1 tvg-id="mbc5" tvg-name="MBC 5" group-title="MBC",MBC 5
-https://shls-mbc5-prod-dub.shahid.net/out/v1/7c3e3e1f8e1a4b8c9e2c3e1f8e1a4b8c/index.m3u8
+#EXTINF:-1 tvg-id="AlMaghribia.ma" tvg-name="Al Maghribia" group-title="Marruecos",Al Maghribia
+https://cdn-hls.globecast.tv/live/ramdisk/al_maghribia/hls_snrt/index.m3u8
 
-#EXTINF:-1 tvg-id="mbcaction" tvg-name="MBC Action" group-title="MBC",MBC Action
-https://shls-mbcaction-prod-dub.shahid.net/out/v1/8c3e3e1f8e1a4b8c9e2c3e1f8e1a4b8c/index.m3u8
+#EXTINF:-1 tvg-id="Assadissa.ma" tvg-name="Assadissa" group-title="Marruecos",Assadissa
+https://cdn-hls.globecast.tv/live/ramdisk/assadissa/hls_snrt/index.m3u8
 
-#EXTINF:-1 tvg-id="mbcbollywood" tvg-name="MBC Bollywood" group-title="MBC",MBC Bollywood
-https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/4c3e3e1f8e1a4b8c9e2c3e1f8e1a4b8c/index.m3u8
+#EXTINF:-1 tvg-id="Tamazight.ma" tvg-name="Tamazight TV" group-title="Marruecos",Tamazight TV
+https://cdn-hls.globecast.tv/live/ramdisk/tamazight_tv/hls_snrt/index.m3u8
 
-#EXTINF:-1 tvg-id="mbcdrama" tvg-name="MBC Drama" group-title="MBC",MBC Drama
-https://shls-mbcdrama-prod-dub.shahid.net/out/v1/3f1b0f9e8c6f4e0e8e6b2e0c8dfe8e3c/index.m3u8
-
-#EXTINF:-1 tvg-id="mbcir" tvg-name="MBC Iraq" group-title="MBC",MBC Iraq
-https://shls-mbciraq-prod-dub.shahid.net/out/v1/5f1b0f9e8c6f4e0e8e6b2e0c8dfe8e3c/index.m3u8
-
-#EXTINF:-1 tvg-id="mbcmasr" tvg-name="MBC Masr" group-title="MBC",MBC Masr
-https://shls-mbcmasr-prod-dub.shahid.net/out/v1/7c3e3e1f8e1a4b8c9e2c3e1f8e1a4b8c/index.m3u8
-
-
-
-#EXTINF:-1 tvg-id="adsports1" tvg-name="AD Sports 1" group-title="Sports Arab",AD Sports 1
-https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="adsports2" tvg-name="AD Sports 2" group-title="Sports Arab",AD Sports 2
-https://admdn2.cdn.mangomolo.com/adsports2/smil:adsports2.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="adsports3" tvg-name="AD Sports 3" group-title="Sports Arab",AD Sports 3
-https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="adsports4" tvg-name="AD Sports 4" group-title="Sports Arab",AD Sports 4
-https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.smil/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-id="dubaisports1" tvg-name="Dubai Sports 1" group-title="Sports Arab",Dubai Sports 1
-https://dmisvthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="dubaisports2" tvg-name="Dubai Sports 2" group-title="Sports Arab",Dubai Sports 2
-https://dmisvthvll.cdn.mangomolo.com/dubaisports2/smil:dubaisports2.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="dubaisports3" tvg-name="Dubai Sports 3" group-title="Sports Arab",Dubai Sports 3
-https://dmisvthvll.cdn.mangomolo.com/dubaisports3/smil:dubaisports3.smil/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-id="aloula" tvg-name="Al Aoula" group-title="Maroc",Al Aoula
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8
-
-#EXTINF:-1 tvg-id="2m" tvg-name="2M Monde" group-title="Maroc",2M Monde
-https://d3g87jnubafe6a.cloudfront.net/out/v1/1fa0fb3c8dec402994a6f7a7f6492b82/index_3.m3u8
-
-#EXTINF:-1 tvg-id="arrabia" tvg-name="Arrabia" group-title="Maroc",Arrabia
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabia/hls_snrt/index.m3u8
-
-#EXTINF:-1 tvg-id="assadissa" tvg-name="Assadissa" group-title="Maroc",Assadissa
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/index.m3u8
-
-#EXTINF:-1 tvg-id="athaqafia" tvg-name="Athaqafia" group-title="Maroc",Athaqafia
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/athaqafia/hls_snrt/index.m3u8
-
-#EXTINF:-1 tvg-id="laayoune" tvg-name="Laayoune TV" group-title="Maroc",Laayoune TV
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/laayoune_tv/hls_snrt/index.m3u8
-
-
-#EXTINF:-1 tvg-id="beinnews" tvg-name="Bein Sports News" group-title="Sports",Bein Sports News
-https://connectik.tv/live/beinsportsnews/index.m3u8
-
-#EXTINF:-1 tvg-id="fastsports" tvg-name="Fast Sports" group-title="Sports",Fast Sports
-https://dai.google.com/linear/hls/event/fastsports/master.m3u8
-
-#EXTINF:-1 tvg-id="edgesport" tvg-name="Edge Sport" group-title="Sports",Edge Sport
-https://edgesport-samsunguk.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="fueltv" tvg-name="Fuel TV" group-title="Sports",Fuel TV
-https://fueltv-fueltv-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Laayoune.ma" tvg-name="Laayoune TV" group-title="Marruecos",Laayoune TV
+https://cdn-hls.globecast.tv/live/ramdisk/laayoune_tv/hls_snrt/index.m3u8
