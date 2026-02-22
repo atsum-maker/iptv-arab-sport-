@@ -1,5 +1,3 @@
-#EXTM3U
-
 #EXTINF:-1 tvg-id="AlAoula.ma" tvg-name="Al Aoula" group-title="Marruecos",Al Aoula
 https://cdn-hls.globecast.tv/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8
 
